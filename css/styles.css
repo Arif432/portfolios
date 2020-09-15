@@ -1,0 +1,102 @@
+.header{
+	height: 600px;
+	background-color: #F6F6F6;
+	padding: 20px;
+	text-align: center;
+	color: #1991A2;
+	font-family: 'Lobster', cursive;
+}
+#heading{
+	font-size: 100px;
+	margin-bottom: 0;
+
+}
+#head2{
+	margin-top: 0;
+	margin-bottom: 60px;
+	font-weight: normal;
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Indie Flower', cursive;
+}
+#lol{
+	width: 200px;
+	height:200px;
+}
+.lol{
+	width: 150px;
+	height:150px;
+}
+.circle{
+	border-radius: 50%;
+}
+.top{
+	text-align:  center;
+	margin-top: 80px;
+}
+.center{
+	text-align: center;
+}
+#left{
+	float: left;
+	margin: 20px 20px 20px 0;
+}
+#right{
+	float: right;
+}
+.middle{
+	text-align: center;
+	padding: 60px;
+}
+.bottom{
+	margin-top: 100px;
+	text-align: center;
+}
+.middle-child{
+
+	width: 50%;
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.mTop{
+	margin-top: 150px;
+}
+.footer{
+	height: 150px;
+	background-color: #F6F6F6;
+	padding: 50px;
+	text-align: center;
+}
+.footer p{
+	 margin-top: 80px;
+}
+ a{
+	margin-top: 30px;
+	margin-left: 60px;
+	font-size: 20px;
+	color: #551A8B;
+	text-decoration: none;
+}
+a:hover{
+		text-decoration: overline;
+		color:#4f1882;
+		font-weight: bold;
+}
+ button{
+	border:none;
+	width: 100px;
+	height: 40px;
+	margin-bottom: 30px;
+	padding: 5px;
+	background-color: grey;
+	border-radius: 10px;
+	color: white;
+}
+button:hover{
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
